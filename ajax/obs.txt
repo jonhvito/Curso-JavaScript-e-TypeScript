@@ -1,0 +1,1 @@
+Importante usar o live server para que as requests seja feita corretamente!!
